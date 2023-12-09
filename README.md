@@ -1,7 +1,7 @@
 > [!CAUTION]
 > I am currently sick with covid.\
 > Due to this, any issues or pull request will probably take a while to answer.\
-> I thank your
+> I thank you for your patience
 
 <!--
 **NotAtomicBomb/NotAtomicBomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
